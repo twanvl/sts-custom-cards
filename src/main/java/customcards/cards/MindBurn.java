@@ -21,7 +21,8 @@ public class MindBurn extends CustomCard {
 	private static final int POOL = 1;
 
 	public MindBurn() {
-		super(ID, NAME, IMAGE, COST, DESCRIPTION, AbstractCard.CardType.SKILL, AbstractCard.CardColor.RED, AbstractCard.CardRarity.UNCOMMON, AbstractCard.CardTarget.NONE, POOL);
+        super(ID, NAME, IMAGE, COST, DESCRIPTION, AbstractCard.CardType.SKILL, AbstractCard.CardColor.RED, AbstractCard.CardRarity.UNCOMMON, AbstractCard.CardTarget.NONE, POOL);
+        this.exhaust = true;
 	}
 
     @Override
