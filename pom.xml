@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
   <modelVersion>4.0.0</modelVersion>
-  
+
   <groupId>customcards</groupId>
   <artifactId>CustomCards</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>SynergyRelic</name>
   <description>Adds synergistic card choices.</description>

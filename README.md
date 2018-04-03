@@ -12,6 +12,9 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 ![Mind Burn](github_resources/MindBurn.png)
 [by pi_rho_man](https://www.reddit.com/r/slaythespire/comments/86fnwa/havoc_op_beta_bug/dw56kfz/)
 
+![Demon Armor](github_resources/DemonArmor.png)
+[by SirBlackMage](https://www.reddit.com/r/slaythespire/comments/892ohq/im_learning_photoshop_and_created_a_custom/)
+
 ## Requirements ##
 * ModTheSpire (https://github.com/t-larson/ModTheSpire/releases)
 * BaseMod (https://github.com/daviscook477/BaseMod/releases)
@@ -26,3 +29,10 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 6. Your modded version of **Slay The Spire** can now be launched by double-clicking on `ModTheSpire.jar`
 7. This will open a mod select menu where you need to make sure that both `BaseMod` and `CustomCards` are checked before clicking **play**
 
+## Changelog ##
+
+v1.0.1:
+ * Added *Demon Armor*
+
+v1.0.0:
+ * Added *Mind Burn*

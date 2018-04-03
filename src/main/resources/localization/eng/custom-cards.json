@@ -3,5 +3,9 @@
         "NAME": "Mind Burn",
         "DESCRIPTION": "Play and exhaust your draw pile. Lose 1 HP for each card played. Exhaust.",
         "UPGRADE_DESCRIPTION": "Innate. NL Play and exhaust your draw pile. Lose 1 HP for each card played. Exhaust."
+    },
+    "Demon Armor": {
+        "NAME": "Demon Armor",
+        "DESCRIPTION": "At the start of your turn, lose 1 HP and gain 1 Dexterity."
     }
 }

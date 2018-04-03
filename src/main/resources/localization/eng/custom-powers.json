@@ -1,0 +1,6 @@
+{
+    "Demon Armor": {
+        "NAME": "Demon Armor",
+        "DESCRIPTIONS": ["At the start of your turn lose #b"," HP and gain #b"," #yDexterity."]
+    }
+}
