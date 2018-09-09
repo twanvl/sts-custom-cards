@@ -31,6 +31,9 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 
 ## Changelog ##
 
+v1.0.2:
+ * Fix for ModTheSpire/BaseMod v3.0.0
+
 v1.0.1:
  * Added *Demon Armor*
 

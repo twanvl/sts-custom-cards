@@ -24,9 +24,7 @@ public class CustomCards implements PostInitializeSubscriber, EditCardsSubscribe
 	public static final Logger logger = LogManager.getLogger(CustomCards.class.getName());
 
     public CustomCards() {
-        BaseMod.subscribeToPostInitialize(this);
-        BaseMod.subscribeToEditCards(this);
-        BaseMod.subscribeToEditStrings(this);
+        BaseMod.subscribe(this);
     }
 
     public static void initialize() {
@@ -36,9 +34,7 @@ public class CustomCards implements PostInitializeSubscriber, EditCardsSubscribe
     public void receivePostInitialize() {
         // Mod badge
         Texture badgeTexture = new Texture("img/CustomCardsBadge.png");
-        ModPanel settingsPanel = new ModPanel();
-        settingsPanel.addLabel("This mod does not have any settings.", 400.0f, 700.0f, (me) -> {});
-        BaseMod.registerModBadge(badgeTexture, MODNAME, AUTHOR, DESCRIPTION, settingsPanel);
+        BaseMod.registerModBadge(badgeTexture, MODNAME, AUTHOR, DESCRIPTION, null);
     }
     @Override
     public void receiveEditCards() {

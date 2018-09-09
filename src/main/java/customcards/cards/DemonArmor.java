@@ -21,10 +21,9 @@ public class DemonArmor extends CustomCard {
     private static final int COST = 3;
     private static final int UPGRADED_COST = 2;
     private static final int AMOUNT = 1;
-    private static final int POOL = 1;
 
     public DemonArmor() {
-        super(ID, NAME, IMAGE, COST, DESCRIPTION, CardType.POWER, CardColor.RED, CardRarity.RARE, CardTarget.NONE, POOL);
+        super(ID, NAME, IMAGE, COST, DESCRIPTION, CardType.POWER, CardColor.RED, CardRarity.RARE, CardTarget.NONE);
         this.magicNumber = this.baseMagicNumber = AMOUNT;
     }
 
