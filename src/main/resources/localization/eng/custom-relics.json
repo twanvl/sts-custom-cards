@@ -1,0 +1,7 @@
+{
+  "TimeEatersClock": {
+      "NAME": "Time Eater's Clock",
+      "FLAVOR": "Tick tock, goes the clock.",
+      "DESCRIPTIONS": ["You only have #b"," seconds to complete your turn. Gain [E] at the start of each turn."]
+  }
+}

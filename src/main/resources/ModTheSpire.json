@@ -1,8 +1,8 @@
 {
   "modid": "Custom Cards",
-  "name": "Custom Cards",
+  "name": "Custom Cards and Relics",
   "author_list": ["twanvl"],
-  "description": "Adds some custom cards designed by the fine people of Reddit.",
+  "description": "Adds some custom cards and relics designed by the fine people of Reddit.",
   "version": "1.0.2",
   "sts_version": "08-30-2018",
   "mts_version": "3.0.0",

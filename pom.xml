@@ -58,7 +58,12 @@
         <configuration>
           <excludes>
             <exclude>**/*.xcf</exclude>
+            <exclude>**/Makefile</exclude>
             <exclude>**/.goutputstream</exclude>
+            <exclude>img/relics/large</exclude>
+            <exclude>img/relics/large/*</exclude>
+            <exclude>img/powers/gimp</exclude>
+            <exclude>img/powers/gimp/*</exclude>
           </excludes>
         </configuration>
       </plugin>

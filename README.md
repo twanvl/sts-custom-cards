@@ -1,4 +1,4 @@
-# Custom cards for Slay the Spire
+# Custom cards and relics for Slay the Spire
 
 Adds some custom cards designed by the fine people of reddit.
 
@@ -7,6 +7,10 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 
     deck add Mind Burn
 
+To cheat in relics use the command
+
+    relic add TimeEatersClock
+
 ## Cards ##
 
 ![Mind Burn](github_resources/MindBurn.png)
@@ -14,6 +18,11 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 
 ![Demon Armor](github_resources/DemonArmor.png)
 [by SirBlackMage](https://www.reddit.com/r/slaythespire/comments/892ohq/im_learning_photoshop_and_created_a_custom/)
+
+## Relics ##
+
+![Time Eater's Clock](github_resources/TimeEatersClock.png)
+[by SirBlackMage](https://www.reddit.com/r/slaythespire/comments/9expvg/boss_relic_idea_the_time_eaters_clock/)
 
 ## Requirements ##
 * ModTheSpire (https://github.com/t-larson/ModTheSpire/releases)
@@ -30,6 +39,9 @@ To add a card to your deck like a filthy cheater, you can press backtick (`` ` `
 7. This will open a mod select menu where you need to make sure that both `BaseMod` and `CustomCards` are checked before clicking **play**
 
 ## Changelog ##
+
+v1.1.0:
+ * Added *Time Eater's Clock*
 
 v1.0.2:
  * Fix for ModTheSpire/BaseMod v3.0.0

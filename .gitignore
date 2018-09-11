@@ -3,8 +3,12 @@ dependency-reduced-pom.xml
 .project
 .settings
 .vscode
+.factorypath
 notsrc
 target
-
+src/main/resources/img/relics/*.png
+src/main/resources/img/relics/outline
+src/main/resources/img/powers/gimp
+src/main/resources/img/cards/large/*.xcf
 src/main/resources/images/characters/hybrid/orb/red
 src/main/resources/images/characters/hybrid/orb/green
