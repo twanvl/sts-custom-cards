@@ -22,7 +22,7 @@ To cheat in relics use the command
 ## Relics ##
 
 ![Time Eater's Clock](github_resources/TimeEatersClock.png)
-[by SirBlackMage](https://www.reddit.com/r/slaythespire/comments/9expvg/boss_relic_idea_the_time_eaters_clock/)
+[by tema-k](https://www.reddit.com/r/slaythespire/comments/9expvg/boss_relic_idea_the_time_eaters_clock/)
 
 ## Requirements ##
 * ModTheSpire (https://github.com/t-larson/ModTheSpire/releases)
