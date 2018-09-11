@@ -3,7 +3,7 @@
 
   <groupId>customcards</groupId>
   <artifactId>CustomCards</artifactId>
-  <version>1.0.2</version>
+  <version>1.1.0</version>
 
   <name>SynergyRelic</name>
   <description>Adds synergistic card choices.</description>
